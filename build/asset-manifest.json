@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.91c4f2e9.css",
-    "main.js": "/static/js/main.f701bcbb.js",
-    "index.html": "/index.html",
-    "main.91c4f2e9.css.map": "/static/css/main.91c4f2e9.css.map",
-    "main.f701bcbb.js.map": "/static/js/main.f701bcbb.js.map"
+    "main.css": "/driving-school-app/static/css/main.91c4f2e9.css",
+    "main.js": "/driving-school-app/static/js/main.f701bcbb.js",
+    "index.html": "/driving-school-app/index.html",
+    "main.91c4f2e9.css.map": "/driving-school-app/static/css/main.91c4f2e9.css.map",
+    "main.f701bcbb.js.map": "/driving-school-app/static/js/main.f701bcbb.js.map"
   },
   "entrypoints": [
     "static/css/main.91c4f2e9.css",
